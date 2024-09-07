@@ -6,7 +6,7 @@ I'm a Computer Engineering graduate from Gujarat Technological University with a
 - 🌍 I'm from Anand, Gujarat, India
 - 👨‍💻 I'm currently working on enhancing my skills in web development
 - 💬 Ask me about Node JS ,Express JS, JavaScript, Web development , Web Designing
-- 📫 How to reach me: [Your Email](mailto:kdangi177@gmail.com)
+- 📫 How to reach me: [kdangi177@gmail.com](mailto:kdangi177@gmail.com)
 - ⚡ Fun fact: I love exploring new technologies and am an avid gamer in my free time
 
 ## 🛠️ My Skills
